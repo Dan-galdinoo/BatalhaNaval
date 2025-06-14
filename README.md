@@ -68,6 +68,8 @@ O programa exibirá o tabuleiro com os navios posicionados e as áreas das habil
 Exemplo de Saída
 
 === TABULEIRO BATALHA NAVAL ===
+
+
     A  B  C  D  E  F  G  H  I  J
  0  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
  1  ~  N  N  N  ~  ~  ~  ~  ~  ~
