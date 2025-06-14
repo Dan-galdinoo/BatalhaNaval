@@ -65,24 +65,6 @@ Editar
 ./batalha_naval
 O programa exibirá o tabuleiro com os navios posicionados e as áreas das habilidades sobrepostas.
 
-Exemplo de Saída
-
-=== TABULEIRO BATALHA NAVAL ===
-
-
-    A  B  C  D  E  F  G  H  I  J
- 0  ~  ~  ~  ~  ~  ~  ~  ~  ~  ~
- 1  ~  N  N  N  ~  ~  ~  ~  ~  ~
- 2  ~  ~  *  *  *  *  *  ~  ~  ~
- 3  ~  ~  ~  ~  *  N  ~  ~  ~  ~
- 4  ~  ~  ~  ~  *  N  ~  ~  ~  ~
- 5  ~  N  N  N  ~  *  ~  ~  ~  ~
- 6  ~  ~  ~  ~  ~  *  N  ~  ~  ~
- 7  ~  ~  ~  ~  ~  ~  N  N  N  ~
- 8  *  *  *  ~  ~  ~  ~  ~  ~  ~
- 9  ~  ~  *  ~  ~  ~  ~  ~  ~  ~
-
-** ~ Água | N Navio | * Área de habilidade
 
 Considerações Finais:
 O projeto é focado em aprendizado de estruturas de dados e manipulação de matrizes.
